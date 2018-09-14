@@ -1,3 +1,6 @@
-# My Awesome Book
+# Семинары по курсу "Цифровая грамотность"
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+### для студентов 1 курса Школы исторических наук НИУ ВШЭ
+
+
+
