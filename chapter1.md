@@ -56,7 +56,7 @@ _Источник картинки: _[https://habrahabr.ru/post/147843/](https:/
 
 Если в MS Word или другом текстовом редакторе некоторые буквы заменились на «квадратики», надо отформатировать весь файл в какой-нибудь шрифт с полной поддержкой допетровской кириллицы в Unicode --  например, [отсюда](http://kodeks.uni-bamberg.de/AKSL/Schrift/RomanCyrillicStd.htm).
 
-В Sumlime кодировка меняется с помощью_ File &gt; Reopen with Encoding_.
+В Sublime кодировка меняется с помощью_ File &gt; Reopen with Encoding_.
 
 ### Макросы в Sublime
 
