@@ -44,13 +44,11 @@ _Источник:_[http://popel-studio.com/blog/article/kratkaya-istoriya-kodir
 * [кириллица](https://unicode-table.com/ru/blocks/cyrillic/)
 * [дополнительные символы](https://unicode-table.com/ru/blocks/cyrillic-supplement/)
 
-
-
 **Как расшифровать кракозябры?**
 
 Если кодировка сбита, то по характеру кракозябр можно понять, в какой кодировке был текст и в какой кодировке он отображается.
 
-![](blob:https://legacy.gitbook.com/2b9714b9-521c-47e2-a81b-73ff3ede85ca)
+![](/assets/import.png)
 
 _Источник картинки: _[https://habrahabr.ru/post/147843/](https://habrahabr.ru/post/147843/)
 
@@ -102,14 +100,6 @@ _Источник картинки: _[https://habrahabr.ru/post/147843/](https:/
 * ҃  \(U+0483\)
 * Ꙋ \(U+A64A\), ꙋ \(U+A64B\)
 * Ꙗ \(U+A656\), ꙗ \(U+A657\)
-
-
-
-
-
-
-
-
 
 
 
