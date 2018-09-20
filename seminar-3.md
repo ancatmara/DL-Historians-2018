@@ -73,7 +73,9 @@ _**Источник**: _[https://yandex.ru/support/common/troubleshooting/screen
 2. FACSIMILE \(копия источника\) - если есть
 3. Текст
 
-#### ![](https://lh3.googleusercontent.com/-ukDTb1kDHozRiVivvRC7Vt_wAY5Bt39A7OSB6AWqprjEtS7EBKD3AEQ08TsWLm3jQsgwRMuFw7rl1bWHw-VTJm9seKPoLZutYTupatP360fHAQYeyysIX4zsXEmM-_7lky--E5D) Из чего будет состоять наша разметка?
+#### ![](https://lh3.googleusercontent.com/-ukDTb1kDHozRiVivvRC7Vt_wAY5Bt39A7OSB6AWqprjEtS7EBKD3AEQ08TsWLm3jQsgwRMuFw7rl1bWHw-VTJm9seKPoLZutYTupatP360fHAQYeyysIX4zsXEmM-_7lky--E5D) 
+
+#### Из чего будет состоять наша разметка?
 
 ![](https://lh6.googleusercontent.com/tdGN_Z4_Le6T50KmRFe-DZ8MZzFWZ1Yl-nm0AkAKSu1Hh_-SOJTPojTiv_JXYC7KcN-T1czGVB2HPmQiT0k7apYj2PoJ48V5iCqQ7ADeejkrJ-fGpP2PiQ47SIzu4WNRG6XBvGGY)
 
@@ -89,10 +91,10 @@ _**Источник**: _[https://yandex.ru/support/common/troubleshooting/screen
 
 **Вычитка **-- это тщательная проверка текста, в нашем случае - отслеживание и исправление ошибок распознавания.
 
-Следует проводить вычитку в несколько этапов: 
+Следует проводить вычитку в несколько этапов:
 
 1. Сначала прочитать текст полностью, обнаружить возможные артефакты распознавания \(квадратики\), сравнить с pdf и заменить символы. 
 2. Затем сравнить остальной текст с оригиналом, поскольку в процессе оцифровки некоторые буквы могли замениться похожими кириллическими символами. 
 
-Для замены символов и справки следует пользоваться [таблицей символов](https://unicode-table.com/ru/blocks/cyrillic/). 
+Для замены символов и справки следует пользоваться [таблицей символов](https://unicode-table.com/ru/blocks/cyrillic/).
 
