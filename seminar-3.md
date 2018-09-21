@@ -73,7 +73,7 @@ _**Источник**: _[https://yandex.ru/support/common/troubleshooting/screen
 2. FACSIMILE \(копия источника\) - если есть
 3. Текст
 
-#### ![](https://lh3.googleusercontent.com/-ukDTb1kDHozRiVivvRC7Vt_wAY5Bt39A7OSB6AWqprjEtS7EBKD3AEQ08TsWLm3jQsgwRMuFw7rl1bWHw-VTJm9seKPoLZutYTupatP360fHAQYeyysIX4zsXEmM-_7lky--E5D) 
+#### ![](https://lh3.googleusercontent.com/-ukDTb1kDHozRiVivvRC7Vt_wAY5Bt39A7OSB6AWqprjEtS7EBKD3AEQ08TsWLm3jQsgwRMuFw7rl1bWHw-VTJm9seKPoLZutYTupatP360fHAQYeyysIX4zsXEmM-_7lky--E5D)
 
 #### Из чего будет состоять наша разметка?
 
@@ -97,4 +97,8 @@ _**Источник**: _[https://yandex.ru/support/common/troubleshooting/screen
 2. Затем сравнить остальной текст с оригиналом, поскольку в процессе оцифровки некоторые буквы могли замениться похожими кириллическими символами. 
 
 Для замены символов и справки следует пользоваться [таблицей символов](https://unicode-table.com/ru/blocks/cyrillic/).
+
+#### [Тест №1](https://docs.google.com/forms/d/e/1FAIpQLSeoTxCI_Xdc8ysS2qTkIOlUmXZGO4CgIo2W4bFEgvOpoyFuzg/viewform)
+
+
 
