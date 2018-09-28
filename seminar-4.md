@@ -116,5 +116,13 @@ _Кн. 518 л.543 об._.[&lt;/p&gt;](#header-)&lt;!-- эта информаци
 
 ###### Источник, I том Актов социально-экономической истории Древней Руси, в формате pdf [вот тут](https://drive.google.com/drive/folders/1DkFbdxhVBd2S4neujt1anY3SRsN0MwYP).
 
+#### Именованные сущности
+
+![](https://lh4.googleusercontent.com/oAMzn-SwluDjTA2es87uSFTki2_f5XKIyYFiO99u8Q98l4_c991XF9-Xx8CvRTv-Q-ldmLVfBeqfTWWZpI_tHBV_q1cChkeuyZdj1tKaTi9EElTDpcNYO8jgMYbqAdMP4ROBfANDz0g)
+
+![](https://lh4.googleusercontent.com/9xnxadbFm79axOo0QH9nZonhzQ9G6Qh6dPjguAZd_H394BqEp_HWN1eHNBDXnHAdTxdn4vOgNdBxVxFkrWq4E8qP2N98JMD6vdOaInB9fgw9t_8O3PWlyaPkbGlK57DRLZgeh7ySgWk)
+
+#### Структурные элементы документа
+
 
 
