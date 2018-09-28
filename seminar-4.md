@@ -112,5 +112,9 @@ _Кн. 518 л.543 об._.[&lt;/p&gt;](#header-)&lt;!-- эта информаци
 
 ###### Шпаргалка по формулярному анализу отдельным файлом [вот тут](https://drive.google.com/drive/folders/1DkFbdxhVBd2S4neujt1anY3SRsN0MwYP).
 
+###### Финальное распределение текстов [вот тут](https://docs.google.com/spreadsheets/d/162TWSqv3wyVEPCVBc7p6RKpCYDmpgautEJbvyBoj0xc/edit?usp=sharing).
+
+###### Источник, I том Актов социально-экономической истории Древней Руси, в формате pdf [вот тут](https://drive.google.com/drive/folders/1DkFbdxhVBd2S4neujt1anY3SRsN0MwYP).
+
 
 
