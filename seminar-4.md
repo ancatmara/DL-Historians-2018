@@ -122,6 +122,10 @@ _Кн. 518 л.543 об._.[&lt;/p&gt;](#header-)&lt;!-- эта информаци
 
 ![](https://lh4.googleusercontent.com/9xnxadbFm79axOo0QH9nZonhzQ9G6Qh6dPjguAZd_H394BqEp_HWN1eHNBDXnHAdTxdn4vOgNdBxVxFkrWq4E8qP2N98JMD6vdOaInB9fgw9t_8O3PWlyaPkbGlK57DRLZgeh7ySgWk)
 
+Где будут теги &lt;pers&gt;, &lt;place&gt;, &lt;inst&gt;?
+
+![](https://lh5.googleusercontent.com/JsjghgojjLpsYSh5MzWQzIquGnWGwtpoHcZEXb60NZ1_vvh6E-A86vFuGbAl9d5zeUNTwfkznVjCT54C00J1JdCE9kWUbEVNtBQl7_c6SVLw4iNs9L9sdPHjY18ISrFG6NNENMCDhNU)
+
 #### Структурные элементы документа
 
 
