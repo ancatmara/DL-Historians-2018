@@ -109,8 +109,6 @@
 
 [&lt;/teiHeader&gt;](#header-)&lt;!-- мы еще на первом этапе закрыли тег teiheader и отделили метаданные от основного текста&gt;
 
-  
-
 ###### После разметки структуры документа и оформления хедера получиться должно вот так
 
 ![](/assets/import3333.png)![](/assets/import22222.png)
@@ -135,7 +133,7 @@
 
 ![](https://lh5.googleusercontent.com/JsjghgojjLpsYSh5MzWQzIquGnWGwtpoHcZEXb60NZ1_vvh6E-A86vFuGbAl9d5zeUNTwfkznVjCT54C00J1JdCE9kWUbEVNtBQl7_c6SVLw4iNs9L9sdPHjY18ISrFG6NNENMCDhNU)
 
-#### Структурные элементы документа
+#### Структурные элементы акта
 
 
 
