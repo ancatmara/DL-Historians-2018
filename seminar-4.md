@@ -115,13 +115,10 @@
 
 ## Формулярный анализ
 
-###### Инструкция по формулярному анализу отдельным файлом [вот тут](https://drive.google.com/drive/folders/1DkFbdxhVBd2S4neujt1anY3SRsN0MwYP).
-
-###### Шпаргалка по формулярному анализу с примерами [вот тут](https://docs.google.com/spreadsheets/d/1rq3y7O6lyBlXezG9IsCRLXr6bGsC38KtX1qk7ikayt4/edit#gid=0).
-
-###### Финальное распределение текстов [вот тут](https://docs.google.com/spreadsheets/d/162TWSqv3wyVEPCVBc7p6RKpCYDmpgautEJbvyBoj0xc/edit?usp=sharing).
-
-###### Источник, I том Актов социально-экономической истории Древней Руси, в формате pdf [вот тут](https://drive.google.com/drive/folders/1DkFbdxhVBd2S4neujt1anY3SRsN0MwYP).
+* ###### Инструкция по формулярному анализу отдельным файлом [вот тут](https://drive.google.com/drive/folders/1DkFbdxhVBd2S4neujt1anY3SRsN0MwYP).
+* ###### Шпаргалка по формулярному анализу с примерами [вот тут](https://docs.google.com/spreadsheets/d/1rq3y7O6lyBlXezG9IsCRLXr6bGsC38KtX1qk7ikayt4/edit#gid=0).
+* ###### Финальное распределение текстов [вот тут](https://docs.google.com/spreadsheets/d/162TWSqv3wyVEPCVBc7p6RKpCYDmpgautEJbvyBoj0xc/edit?usp=sharing).
+* ###### Источник, I том Актов социально-экономической истории Древней Руси, в формате pdf [вот тут](https://drive.google.com/drive/folders/1DkFbdxhVBd2S4neujt1anY3SRsN0MwYP).
 
 #### Именованные сущности
 
