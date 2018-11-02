@@ -136,5 +136,9 @@
 
 ![](/assets/r12.png)
 
+## Задание
+
+Тексты для работы на семинаре [здесь](https://drive.google.com/open?id=1hHwz0ucWPlYmxa-KQLtR2eG1hO32Wnf5).
+
 
 
